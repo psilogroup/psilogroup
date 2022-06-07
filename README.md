@@ -7,6 +7,7 @@ Some things about me:
 * Working with .NET since 2010
 * Solid enterprise experience
 * I like to program games for fun
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psilogroup&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Find me 📫:**
